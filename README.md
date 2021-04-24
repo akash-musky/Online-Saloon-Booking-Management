@@ -7,6 +7,6 @@ There are three Icon on the main window are   Student ,Admin and Close . These t
 In loginpage username and password are two labels which has corresponding textfields and password field.  There is a checkbox which is use to show the password. Entering wrong user name or password will diplay a pop up message . which will be like:
 Insert_image of incorrect username or password here..
 There is A Back Button which will take you back to the Main page. If you enter the Correct Username and password You will go to the next page which admin page. 
-![image](https://user-images.githubusercontent.com/70103770/115957062-fc45ce80-a51d-11eb-9920-4f5195e5b41f.png)
+
 
 
